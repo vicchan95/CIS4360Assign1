@@ -1,5 +1,8 @@
-# CIS4360Assign1
+"""
+CIS4360Assign1
 Assignment 1 - Calling Twilio and Google APIs
+Part 1: Twilio
+"""
 
 from twilio.rest import Client 
  
